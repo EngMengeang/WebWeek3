@@ -1,0 +1,25 @@
+/* TODO */
+
+div{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+
+button {
+    color:white;
+    border: 5px solid pink;
+    border-radius: 40px;
+    background-color: rgb(247, 110, 133);
+    padding: 10px 40px;
+    
+}
+
+button:hover {
+    border: 5px solid rgb(133, 3, 25);
+    border-radius: 40px;
+    background-color: rgb(181, 23, 186);
+    padding: 10px 40px;
+    font-size: 2rem;
+}
